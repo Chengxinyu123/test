@@ -1,0 +1,1 @@
+print(float(input('请输入数字1'))+float(input('请输入数字2')))
